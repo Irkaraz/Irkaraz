@@ -10,7 +10,7 @@
 <br>
 
 <div float="center">
-  <img width="42.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=irkaraz&theme=gruvbox&hide_border=true">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=irkaraz&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkaraz&theme=gruvbox&show_icons=true&hide_border=true&layout=compact">
 </div>
 
